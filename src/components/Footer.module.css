@@ -1,0 +1,31 @@
+/* Small Screen */
+.container {
+    background-color: #000000;
+    color: aquamarine;
+    padding: 1rem;
+    text-align: center;
+}  
+
+.footer_title {
+    margin-bottom: 1em;
+}
+
+.footer author {
+    margin-bottom: 1em;
+}
+
+/* Medium Screen */
+@media (min-width: 768px) {
+    /*
+    * Nothing TODO here.
+    * We dont change styling footer.
+    */
+}
+
+/* Large Screen */ 
+@media (min-width: 992px) {
+    /*
+    * Nothing TODO here.
+    * We dont change styling footer.
+    */
+}
